@@ -1,0 +1,7 @@
+*.zip
+*.mp4
+*.pth
+out
+data.zip
+data
+src/out
